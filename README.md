@@ -16,15 +16,15 @@
 </ul>
 <br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Baumzin&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
-
-<br>
-
 Linguagem | Nível
 :--------:|:-----:
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>         |Intermediário
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>|iniciante
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>      |Iniciante
+<br>
+
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Baumzin&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
 <br>
 <h3><b>Minhas redes sociais:</b></h3>
 
