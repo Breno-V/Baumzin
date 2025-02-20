@@ -3,7 +3,7 @@
 <ul>
   <li>Meu nome é Breno Valentim, tenho 16 anos e sou de Campinas-SP.</li>
   <li>Gosto de jogar Hollow Knight em meu PlayStation 4, além de jogar futebol e desenhar.</li>
-  <li>Estudo na ETEC BENTO QUIRINO, Estou no meu 1º ano cursando Desenvolvimento de Sistemas</li>
+  <li>Estudo na ETEC BENTO QUIRINO, Estou ingressando em meu 2º ano cursando Desenvolvimento de Sistemas</li>
 </ul>
 <br>
 
@@ -12,7 +12,7 @@
 
 <h3>Minhas Habilidades 🚀</h3>
 <ul>
-  <li>Apesar de estar apenas no meu 1º ano, já desenvolvi algumas habilidades: </li>
+  <li>Agora estando em meu 2º ano, já desenvolvi algumas habilidades: </li>
 </ul>
 <br>
 
