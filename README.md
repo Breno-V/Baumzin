@@ -24,7 +24,8 @@ Linguagem | Nível
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>       |Iniciante
 <br>
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Baumzin&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baumzin&layout=compact&theme=dracula)
+
 
 <br>
 <h3><b>Minhas redes sociais:</b></h3>
