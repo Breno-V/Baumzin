@@ -2,7 +2,6 @@
 <h3>Sobre mim</h3>
 <ul>
   <li>Meu nome é Breno Valentim, tenho 16 anos e sou de Campinas-SP.</li>
-  <li>Gosto de jogar Hollow Knight em meu PlayStation 4, além de jogar futebol e desenhar.</li>
   <li>Estudo na ETEC BENTO QUIRINO, Estou ingressando em meu 2º ano cursando Desenvolvimento de Sistemas</li>
 </ul>
 <br>
