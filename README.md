@@ -21,19 +21,19 @@
 
 ### Statistics :star:
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=dark" alt="Breno's GitHub stats-Dark" width="400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=dark" alt="Breno's GitHub stats-Dark" width="400" height="300" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=default" alt="Breno's GitHub stats-Light" width="400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=default" alt="Breno's GitHub stats-Light" width="400" height="300" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=dark" alt="Most Used Languages-Dark" width="400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=dark" alt="Most Used Languages-Dark" width="400" height=168" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=default" alt="Most Used Languages-Light" width="400" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=default" alt="Most Used Languages-Light" width="400" height="168" />
 </a>
 
 ### Contacts ☎️
