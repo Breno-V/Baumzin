@@ -1,37 +1,46 @@
-## Olá, seja bem vindo! 👋
-<h3>Sobre mim</h3>
-<ul>
-  <li>Meu nome é Breno Valentim, tenho 16 anos e sou de Campinas-SP.</li>
-  <li>Estudo na ETEC BENTO QUIRINO, Estou ingressando em meu 2º ano cursando Desenvolvimento de Sistemas</li>
-</ul>
-<br>
+# Hello, Welcome! :wave:
+👦 | I'm 17 years old and a front-end developer <br>
+🚀 | I'm excited and enthusiastic to delve deeper into the programming field. <br>
+🎮 | In my free time, I enjoy playing **Hollow Knight** — a challenge that trains _patience_ and _focus_.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baumzin&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
-<br>
+### Technologies 🏆
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height=64 width=64/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height=64 width=64/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=64 width=64/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" height=64 width=64/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height=64 width=64/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height=64 width=64/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height=64 width=64/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=64 width=64/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height=64 width=64/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" height=64 width=64/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" height=64 width=64/>
+          
+</div>
 
-<h3>Minhas Habilidades 🚀</h3>
-<ul>
-  <li>Agora estando em meu 2º ano, já desenvolvi algumas habilidades: </li>
-</ul>
-<br>
+### Statistics :star:
+<div style="display: flex; gap: 20px; align-items: flex-start;">
 
-Linguagem | Nível
-:--------:|:-----:
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>         |Intermediário
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>|Iniciante
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>      |Iniciante
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>       |Iniciante
-<br>
+  <a href="https://github.com/Breno-V" class="gh-dark-mode-only" style="display: flex; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=dark&hide_title=false" alt="GitHub Stats Dark" width="425" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=dark&hide_title=true" alt="Top Languages Dark" width="400" />
+  </a>
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baumzin&layout=compact&theme=dracula)
+  <a href="https://github.com/Breno-V" class="gh-light-mode-only" style="display: flex; gap: 20px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats Light" width="425" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=default&hide_title=true" alt="Top Languages Light" width="400" />
+  </a>
 
+</div>
 
-<br>
-<h3><b>Minhas redes sociais:</b></h3>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-v/)
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/baumzin/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:brenosuvale@gmail.com)
+### Contacts ☎️
+[![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Baumzin/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-v)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l3renoValentim@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/l3renoValentim)
 
 
 
+          
+          
