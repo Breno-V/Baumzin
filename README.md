@@ -1,4 +1,4 @@
-## Olá, sou o Breno! 👋
+## Olá, seja bem vindo! 👋
 <h3>Sobre mim</h3>
 <ul>
   <li>Meu nome é Breno Valentim, tenho 16 anos e sou de Campinas-SP.</li>
