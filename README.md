@@ -20,19 +20,22 @@
 </div>
 
 ### Statistics :star:
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-
-  <a href="https://github.com/Breno-V" class="gh-dark-mode-only" style="display: flex; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=dark&hide_title=false" alt="GitHub Stats Dark" width="425" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=dark&hide_title=true" alt="Top Languages Dark" width="400" />
-  </a>
-
-  <a href="https://github.com/Breno-V" class="gh-light-mode-only" style="display: flex; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats Light" width="425" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=default&hide_title=true" alt="Top Languages Light" width="400" />
-  </a>
-
-</div>
+<table border="0" style="border-collapse: collapse;">
+  <tr>
+    <td class="gh-dark-mode-only" style="padding-right: 20px;">
+      <a href="https://github.com/Breno-V" style="display: block;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=dark&hide_title=false" alt="GitHub Stats Dark" width="425" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=dark&hide_title=true" alt="Top Languages Dark" width="400" style="display: block; margin-top: 8px;" />
+      </a>
+    </td
+    <td class="gh-light-mode-only" style="padding-left: 20px;">
+      <a href="https://github.com/Breno-V" style="display: block;">
+        <img src="https://github-readme-stats.vercel.app/api?username=Breno-V&show_icons=true&theme=default&hide_title=false" alt="GitHub Stats Light" width="425" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=default&hide_title=true" alt="Top Languages Light" width="400" style="display: block; margin-top: 8px;" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ### Contacts ☎️
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Baumzin/)
