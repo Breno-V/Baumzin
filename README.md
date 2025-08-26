@@ -36,6 +36,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Breno-V&layout=compact&theme=default" alt="Most Used Languages-Light" width="400" height="168" />
 </a>
 
+![Snake animation](https://github.com/<Breno-V>/<Breno-V>/blob/output/snake.svg)
+
 ### Contacts ☎️
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/Baumzin/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/breno-v)
